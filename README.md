@@ -14,3 +14,10 @@ Undo, undoes the last stroke you made
 The color picker at the bottom of the app allows you to choose which color you would like to paint with
 
 And lastly, the whitespace in the center of the application is where you can draw or sketch.
+
+
+References:
+
+https://www.youtube.com/watch?v=2-mmH_nOE9Q
+
+https://www.youtube.com/watch?v=ktbYUrlN_Ws
